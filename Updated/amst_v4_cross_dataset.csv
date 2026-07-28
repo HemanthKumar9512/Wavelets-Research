@@ -1,5 +1,0 @@
-Method,Cross_Accuracy,Cross_F1
-HOG,0.0,0.0
-ResNet50,0.0,0.0
-EfficientNet,4.166666666666666,1.0256410256410255
-AMST v4 (Proposed),0.0,0.0
